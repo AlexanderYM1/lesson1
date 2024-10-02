@@ -1,0 +1,5 @@
+print("hallo, WORLD!!!/Привет Мир")
+name=input("Как вас зовут?/What your name?")
+print("Привет/Hallo,",name)
+age=input("Сколько тебе лет?/ How old are you?")
+print("Me too/Мне тоже,",age)
